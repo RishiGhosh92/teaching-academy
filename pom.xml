@@ -82,7 +82,7 @@
 		</repository>
 		<site>
 			<id>nexus-academy-site</id>
-			<url>http://localhost:8081/repository/academy-site/</url>
+			<url>dav:http://localhost:8081/repository/academy-site/</url>
 		</site>
 	</distributionManagement>
 
