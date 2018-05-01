@@ -85,9 +85,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>git@github.com:RishiGhosh92/teaching-academy.git</connection>
-		<developerConnection>git@github.com:RishiGhosh92/teaching-academy.git</developerConnection>
-		<url>git@github.com:RishiGhosh92/teaching-academy.git</url>
+		<connection>git:git@github.com:RishiGhosh92/teaching-academy.git</connection>
+		<developerConnection>git:git@github.com:RishiGhosh92/teaching-academy.git</developerConnection>
+		<url>git:git@github.com:RishiGhosh92/teaching-academy.git</url>
 	</scm>
 
 	<build>
